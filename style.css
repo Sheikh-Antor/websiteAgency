@@ -102,7 +102,7 @@ body {
 
 
 /* responsive starts */
-@media screen and (max-width:350px) {
+@media screen and (max-width:400px) {
     .proma-title {
         font-size: 20px !important;;
 
@@ -141,6 +141,7 @@ body {
     margin-top: 25px;
     text-transform: uppercase;
 }
+
 
 
 
@@ -185,7 +186,7 @@ body {
 /* responsive starts */
 
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:400px) {
 
     .title {
         font-size: 22px !important;
@@ -228,7 +229,7 @@ body {
 
 
 /* responsive starts */
-@media screen and (max-width:350px) {
+@media screen and (max-width:400px) {
     .about-title {
         font-size: 20px !important;
 
@@ -317,7 +318,7 @@ border-radius: 8px;
 }
 
 .footer-svg {
-    height: 700px !important;
+    height: 800px !important;
    
 }
 
@@ -354,7 +355,7 @@ hr {
 
 
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:400px) {
 
     .ftrCol p {
         font-size: 13px !important;;
